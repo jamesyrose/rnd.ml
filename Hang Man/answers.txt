@@ -1,0 +1,10 @@
+Correctly Guessed,incorrectly guessed,best next guess,P(Li)
+-----,,E,0.5394
+-----,AI,E,0.6214
+A---R,,T,0.9816
+A---R,E,O,0.9913
+--U--,ODLC,T,0.7045
+-----,EO,I,0.6366
+D—I-,,A,0.8207
+D--I-,A,E,0.7521
+-U---,AEIOS,Y,0.627
