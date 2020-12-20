@@ -4,4 +4,4 @@ Uses bayesian decision rule and discrete cosine transformation (DCT) to identify
 
 
 ## Results 
-[!mask.png]
+![mask](mask.png)

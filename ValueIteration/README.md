@@ -4,4 +4,4 @@ Computed optimal markov decision process (MDP) using value iteration and reinfor
 
 ### Given Maze
 
-[!mazePlain.pdf]
+![maze](mazePlain.jpg)
